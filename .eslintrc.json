@@ -30,6 +30,7 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "camelcase": "off",
     "semi": [
       "error",
       "never"
